@@ -35,3 +35,5 @@ function draw() {
   	}
   //image(animation[frameCount % animation.length],0,0);
 }
+
+//this is just a comment
